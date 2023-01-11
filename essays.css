@@ -1,0 +1,7 @@
+.essay:link {
+    color: dodgerblue;
+}
+
+.essay:visited {
+    color: gray;
+}
